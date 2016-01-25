@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe:Recipe xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:recipe="https://tu-bs.de/isf/recipe">
+  <workstep description="yag kat" duration="1 dakika"/>
+  <workstep stepNumber="2" description="sogan dogra" duration="5 dakika"/>
+  <workstep stepNumber="3"/>
+  <workstep stepNumber="4"/>
+</recipe:Recipe>
